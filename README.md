@@ -1,1 +1,2 @@
 # odin-recipes
+The Recipe Project will showcase the HTML skills that was learned so far as well as how to use VSCode to create a boilerpoint, practicing git in terminal to handle all of the data/files, and how to commit to Github
